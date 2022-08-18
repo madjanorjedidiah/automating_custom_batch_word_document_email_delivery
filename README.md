@@ -4,7 +4,9 @@
 - and delivering them to their respective emails.
 
 
-##### This is a python project. Just doing this for fun.
+##### Purpose
+
+Had 1000's of letters to send and decide to write a script to edit the sample letter and then send emails to the letter recievers.
 
 ##### How it Works
 
